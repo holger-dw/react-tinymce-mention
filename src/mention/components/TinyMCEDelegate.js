@@ -1,5 +1,6 @@
 import isEqual from 'lodash.isequal';
-import React, { Component, PropTypes } from 'react';
+import React, { Component } from 'react';
+import PropTypes from 'prop-types';
 import { connect } from 'react-redux';
 import diffMentionState from '../utils/diffMentionState';
 import last from '../utils/last';

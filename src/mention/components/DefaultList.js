@@ -1,5 +1,6 @@
 import isEqual from 'lodash.isequal';
-import React, { PropTypes } from 'react';
+import React from 'react';
+import PropTypes from 'prop-types';
 import * as ReactDOM from 'react-dom';
 import { connect } from 'react-redux';
 import DefaultListItem from './DefaultListItem.js';
