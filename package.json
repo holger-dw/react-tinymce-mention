@@ -79,9 +79,9 @@
     "lodash.pluck": "^3.1.2",
     "lodash.without": "^3.2.1",
     "react-dom": "^16.8.1",
-    "react-redux": "^2.1.0",
-    "redux": "^2.0.0",
-    "redux-thunk": "^0.1.0",
+    "react-redux": "^4.4.6",
+    "redux": "^3.6.0",
+    "redux-thunk": "^2.1.0",
     "sinon": "^1.16.1",
     "string.prototype.includes": "^1.0.0",
     "twitter-text": "^1.12.0"
