@@ -221,3 +221,4 @@ open http://localhost:3333
 
 ## TODO
 - More tests
+- Update react
